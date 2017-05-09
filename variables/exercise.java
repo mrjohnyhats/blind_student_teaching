@@ -1,6 +1,12 @@
-// # begin exercise 1
-// declare a variable but don't define it below:
-// # end exercise 1
-// # begin exercise 2
-//declare and define a string variable below:
-// # end exercise 2
+// # begin exercise
+// # begin instructions
+// declare a variable of any type named i on the line after the marker. Java should print it
+// # end instructions
+class Main {
+    public static void main(String[] args) {
+        // # write below this marker:
+
+        System.out.println(i);
+    }
+}
+// # end exercise

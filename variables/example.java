@@ -1,11 +1,12 @@
 // # begin example
-// declaration (aka instantiation) of a variable of type int:
+// declaration
 int i;
-// definition of said variable:
+// definition
 i = 5;
-// declaration and definition of a variable of type int:
+// declaration and definition
 int j = 10;
-// declararations and definitions of other types of variables:
+// decs/defs of other variable types
 String myString = "hello world";
 char myChar = 'a';
 boolean myBool = true;
+// # end example
