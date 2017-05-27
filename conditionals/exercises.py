@@ -3,6 +3,7 @@
 each exercise begins with #start exercise and ends with #end exercise
 makes sure to uncomment each exercise (remove the 3 quotation marks from the beginning and end) to see if your code works
 when you're done testing, make sure to put the quotes back
+
 in order to print something, use print("my string")
 
 end instructions'''
