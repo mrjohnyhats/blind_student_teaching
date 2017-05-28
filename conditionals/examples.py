@@ -12,7 +12,7 @@ not c1 - check if the conditional c1 is false
 
 #end list of conditional operators'''
 
-''' #start simple conditionals examples
+''' # start simple conditionals example
 
 # set a variable to 5 and run code if it is equal to 5
 
@@ -20,25 +20,37 @@ a = 5
 if a == 5:
     print("it works!")
 
+# end simple conditional example'''
+
+''' # start simple conditional example
+
 # check if a variable is greater than 10
 
 b = 100
 if b > 10:
     print("it works!")
 
+# end simple conditional example'''
+
+''' # start simple conditional example
+
 # check if b is greater than 10 and a is 5
 
 if b > 10 and a == 5:
     print("it works!")
+
+# end simple conditional example'''
+
+''' # start simple conditional example
 
 # check if b is greater than 10 or a is 15
 
 if b > 10 or a == 15:
     print("it works!")
 
-#end simple conditionals examples '''
+#end simple conditionals example '''
 
-''' #start advanced conditional examples
+''' #start advanced conditional example
 
 # print "a" if b is less than 10, if it isn't then print "b"
 
@@ -47,6 +59,10 @@ if b < 10:
     print("a")
 else:
     print("b")
+
+# end advanced condtional example'''
+
+''' # start advanced conditional example
 
 # print "a" if b is not equal to 10, if it isn't but b is less than -5 then print "b", else print "c"
 
@@ -57,6 +73,10 @@ elif b < -5:
 else:
     print("c")
 
+# end advanced conditional example'''
+
+''' # start advanced conditional example
+
 # if the string "potato" is not a substring of "I like potatoes" then print "he didn't mention potatoes", else print "he mentioned potatoes"
 
 if "potato" not in "I like potatoes":
@@ -64,4 +84,4 @@ if "potato" not in "I like potatoes":
 else:
     print("he mentioned potatoes")
 
-# end advanced conditional examples'''
+# end advanced conditional example'''

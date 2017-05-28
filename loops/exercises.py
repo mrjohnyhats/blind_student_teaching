@@ -29,3 +29,10 @@ end instructions '''
 
 
 #end exercise'''
+
+''' # start exercise
+#instructions: iterate over a string so that every character is printed with a seperate print() statement
+#extra info: strings are pretty much arrays of characters so you can access a certain character at index n by using string[n] syntax
+
+
+#end exercise'''
