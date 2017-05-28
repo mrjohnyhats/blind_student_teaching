@@ -23,4 +23,4 @@ end instructions'''
 # instructions: set a variable to one number, and another to another number. Print something if the first number isn't 10 and the second number is greater than 100.
 # instructions: If one of those conditions isn't true, but one of those is, print something else. If none of those are true, print something else
 
-# end exercise
+# end exercise'''
